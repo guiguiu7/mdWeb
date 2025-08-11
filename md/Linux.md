@@ -15,7 +15,7 @@ tar -xvf 压缩文件名
 ```bash
 sudo dd if=/dev/zero of=/swapfile2 bs=1G count=4  # 创建 4GB 文件
 sudo chmod 600 /swapfile2                        # 设置权限
-sudo mkswap /swapfile2                           # 格式化为 Swap
+sudo mkswap /swapfile2                           # 格式化为 Swapsssss
 sudo swapon /swapfile2   
 ```
 
