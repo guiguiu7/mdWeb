@@ -1,1 +1,1 @@
-![](./md./images/OIP-C.jpg)
+![](images/OIP-C.jpg)

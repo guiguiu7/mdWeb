@@ -12,7 +12,7 @@ docker run -itd --name mysql -p 33066:3306 --restart=always -e MYSQL_ROOT_PASSWO
 
 ##### lsky拉取镜像并运行
 
-![image-20241112105825175](./images/image-20241112105825175.png)
+![image-20241112105825175](../images/image-20241112105825175.png)
 
 ##### lsky注册（`注意连接地址需要是ipconfig的VMip地址`
 
