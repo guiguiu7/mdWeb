@@ -1,0 +1,20 @@
+{
+  "name": "mdWeb",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiguiu7/mdWeb.git"
+  },
+  "author": "guiuiu7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiguiu7/mdWeb/issues"
+  },
+  "homepage": "https://github.com/guiguiu7/mdWeb#readme"
+}
