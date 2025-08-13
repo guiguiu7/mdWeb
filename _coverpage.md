@@ -6,4 +6,4 @@
 > 个人学习笔记
 
 [GitHub](https://github.com/guiguiu7/mdWeb)
-[开始阅读](/md/)
+[开始阅读](README.md)
