@@ -1,0 +1,13 @@
+{
+  "HomePath": "F:\\mdWeb\\md",
+  "DisableGenerateReadmeFile": false,
+  "IgnoreFile": [
+
+  ],
+  "IgnoreDir": [
+    ".git"
+  ],
+  "IgnoreDirNameContain": [
+    ".assets"
+  ]
+}
